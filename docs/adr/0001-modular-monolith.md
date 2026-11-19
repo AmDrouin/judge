@@ -5,10 +5,10 @@
 
 ## Context
 
-EN :
+EN:
 Judge covers several products in one: a film journal, discussions, real-time messaging, events and AI recommendations. I build it solo and it must run in production at a reasonable cost, while staying easy to reason about.
 
-FR :
+FR:
 Judge regroupe plusieurs produits en un seul : un journal consacré au cinéma, des discussions, une messagerie en temps réel, des événements et des recommandations basées sur l’IA. Je le développe en solo et il doit fonctionner en production à un coût raisonnable, tout en restant facile à comprendre.
 
 ## Options considered

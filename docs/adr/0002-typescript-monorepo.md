@@ -21,7 +21,6 @@ EN:
 - Separate repositories vs monorepo: a monorepo keeps shared code and atomic changes in one place.
 
 FR:
-FR:
 
 - TypeScript pour le front-end et le back-end : un seul langage, des types et des schémas de validation partagés.
 - Java/Kotlin (Spring Boot) pour le back-end + TypeScript pour le front-end : très robuste, très répandu dans les grandes entreprises, mais deux langages et une courbe d'apprentissage plus raide.
